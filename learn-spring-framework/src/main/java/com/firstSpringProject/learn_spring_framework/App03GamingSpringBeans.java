@@ -3,7 +3,6 @@ package com.firstSpringProject.learn_spring_framework;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.firstSpringProject.learn_spring_framework.game.GameRunner;
-import com.firstSpringProject.learn_spring_framework.game.GamingConsole;
 
 
 public class App03GamingSpringBeans {
