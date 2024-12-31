@@ -1,3 +1,5 @@
+import './FirstComponent.css';
+
 export default function FirstComponent() {
     return (
       <div className='FirstComponent'>
