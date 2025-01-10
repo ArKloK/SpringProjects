@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-rest-api-starting-code/src/main/java"/>
+	<classpathentry kind="src" path="01-rest-api-starting-code/src/test/java"/>
+	<classpathentry kind="src" path="learn-jpa-and-hibernate/src/main/java"/>
+	<classpathentry kind="src" path="learn-jpa-and-hibernate/src/test/java"/>
+	<classpathentry kind="src" path="learn-spring-boot/src/main/java"/>
+	<classpathentry kind="src" path="learn-spring-boot/src/test/java"/>
+	<classpathentry kind="src" path="learn-spring-framework-1/src/main/java"/>
+	<classpathentry kind="src" path="learn-spring-framework-1/src/test/java"/>
+	<classpathentry kind="src" path="learn-spring-framework-2/src/main/java"/>
+	<classpathentry kind="src" path="learn-spring-framework-2/src/test/java"/>
+	<classpathentry kind="src" path="myfirstwebapp/src/main/java"/>
+	<classpathentry kind="src" path="myfirstwebapp/src/test/java"/>
+	<classpathentry kind="src" path="restful-web-services/src/main/java"/>
+	<classpathentry kind="src" path="restful-web-services/src/test/java"/>
+	<classpathentry kind="output" path="01-rest-api-starting-code/target/classes"/>
+</classpath>
